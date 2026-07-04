@@ -16,8 +16,10 @@ body {
     background: white;
     padding: 30px;
     border-radius: 12px;
-    width: 400px;
-    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+    width: 90%;
+    max-width: 400px;
+    margin:auto;
+    box-shadow:0 0 20px rgba(0,0,0,0.2);
 }
  .container h2 {
             font-size: 30px;
